@@ -43,10 +43,10 @@ npm run dev # starta dev server
  #### Testa:
   Lägg till en rad och se vad som händer:
   ``` main.ts
-  addPerson("Din Person", "du@example.com", "070-1234567");
+  addPerson("Din Person", "du@example.com", "070-1432167");
   ```
   ``` eller
-  addCompany("Ditt Företag", "info@dittforetag.se", "000000-0000");
+  addCompany("Ditt Company", "info@example.se", "000000-0000");
   ```
 
  #### Licens:
